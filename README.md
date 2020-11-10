@@ -1,6 +1,6 @@
 # EASYLEARN
 
-#### This is a web platform which provides free learning contents to students around the world, with special attentin to some of the most challenging educational environment.
+#### This is a web platform which provides free learning contents to students around the world, with special attention to some of the most challenging educational environment.
 
 ## Pre-Requisites
 
