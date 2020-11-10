@@ -1,5 +1,5 @@
 const contact = () => {
-    const form = () => {
+    const form = async (req, res) => {
         res.render('form')
     }
 
